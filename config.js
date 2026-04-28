@@ -10,8 +10,8 @@ class ConfigManager {
     load() {
         if (!fs.existsSync(this.configPath)) {
             this.config = {
-                ownerNumber: '243833389567',
-                ownerJid: '243833389567@s.whatsapp.net',
+                ownerNumber: '22897671765',
+                ownerJid: '22897671765@s.whatsapp.net',
                 botName: 'TochiroBot',
                 prefix: '!',
                 sessionDir: 'sessionData',
