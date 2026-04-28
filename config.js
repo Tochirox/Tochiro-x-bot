@@ -12,7 +12,7 @@ class ConfigManager {
             this.config = {
                 ownerNumber: '243833389567',
                 ownerJid: '243833389567@s.whatsapp.net',
-                botName: 'ShadowCrew',
+                botName: 'TochiroBot',
                 prefix: '!',
                 sessionDir: 'sessionData',
                 mode: 'public',
